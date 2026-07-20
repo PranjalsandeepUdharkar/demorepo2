@@ -1,3 +1,3 @@
 # demorepo2
-Author Pranjal/n
+Author Pranjal
 Batch D2
